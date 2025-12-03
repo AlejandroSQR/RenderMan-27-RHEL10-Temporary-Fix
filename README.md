@@ -98,4 +98,4 @@ you only need to download the RenderMan plugin.
 https://github.com/prman-pixar/RenderManForBlender/releases/tag/v_27.0
 
 >[!IMPORTANT]
-> Renderman works only with Blender 4.2 LTS due to Python version (3.11 and Below)
+> Renderman works better in LTS versions (4.2 / 4.5) due to Python versions
