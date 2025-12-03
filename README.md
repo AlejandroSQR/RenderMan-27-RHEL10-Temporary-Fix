@@ -1,10 +1,15 @@
+
 <div align="center"> 
+  
+<img src="https://github.com/AlejandroSQR/RenderMan27-RHEL10-Temporary-Workaround/blob/main/images/RMAN_TF1.svg" width="600" alt="RockyL10XPI">
 
 # RenderMan27 RHEL10 Temporary Workaround Fix
 
 RenderMan 27 Temporary Installation guide to RHEL 10-based distributions using provisional dependencies and packages
 
 </div>
+
+
 
 # Disclaimer
 
@@ -13,3 +18,6 @@ RenderMan 27 Temporary Installation guide to RHEL 10-based distributions using p
 
 >[!WARNING]
 >The logo used in this repository is an original design created solely for documentation purposes. It is inspired by the visual style of the RenderMan engine but is not an official Pixar asset. It holds no commercial value, is not intended for commercial use, and should not be interpreted as an official RenderMan or Pixar mark.
+
+
+# RHEL-Based Distros 
